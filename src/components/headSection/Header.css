@@ -1,0 +1,23 @@
+.header{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-items{
+    list-style-type: none;
+    display: flex;
+}
+
+.text-link{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.nav-items > li{
+    padding: 10px;
+}
+
+.home-img{
+    max-height: 35em;
+}

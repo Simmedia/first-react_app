@@ -1,0 +1,20 @@
+.question-header-ctn{
+    text-align: center;
+}
+
+.qt-h{
+    text-align: center;
+}
+.quote-ctn{
+    margin: 5em;
+}
+.question-ctn{
+    width: 40em;
+    height: 20em;
+}
+
+.containers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

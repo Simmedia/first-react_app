@@ -1,0 +1,16 @@
+.front-page{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+h1{
+    font-size: 3em;
+}
+h1 > span{
+    color: rgb(37, 74, 168);
+}
+.content-area{
+    padding: 30px;
+}
+
